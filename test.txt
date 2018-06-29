@@ -1,0 +1,5 @@
+test GIT Start demoe? >> start.txt
+
+exit
+ls
+
